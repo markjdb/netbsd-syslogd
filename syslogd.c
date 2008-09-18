@@ -1,4 +1,4 @@
-/*	$NetBSD: syslogd.c,v 1.86 2008/07/21 13:36:59 lukem Exp $	*/
+/*	$NetBSD: syslogd.c,v 1.84.18.1 2008/09/18 04:30:15 wrstuden Exp $	*/
 
 /*
  * Copyright (c) 1983, 1988, 1993, 1994
@@ -39,7 +39,7 @@ __COPYRIGHT("@(#) Copyright (c) 1983, 1988, 1993, 1994\
 #if 0
 static char sccsid[] = "@(#)syslogd.c	8.3 (Berkeley) 4/4/94";
 #else
-__RCSID("$NetBSD: syslogd.c,v 1.86 2008/07/21 13:36:59 lukem Exp $");
+__RCSID("$NetBSD: syslogd.c,v 1.84.18.1 2008/09/18 04:30:15 wrstuden Exp $");
 #endif
 #endif /* not lint */
 
