@@ -1,4 +1,4 @@
-/*	$NetBSD: syslogd.h,v 1.3 2009/04/20 09:56:08 mschuett Exp $	*/
+/*	$NetBSD: syslogd.h,v 1.2.2.1 2009/05/13 19:20:41 jym Exp $	*/
 
 /*-
  * Copyright (c) 2008 The NetBSD Foundation, Inc.
