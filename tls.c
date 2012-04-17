@@ -1,4 +1,4 @@
-/*	$NetBSD: tls.c,v 1.9 2012/02/13 07:40:24 spz Exp $	*/
+/*	$NetBSD: tls.c,v 1.8.2.1 2012/04/17 00:09:53 yamt Exp $	*/
 
 /*-
  * Copyright (c) 2008 The NetBSD Foundation, Inc.
@@ -45,7 +45,7 @@
  */
 
 #include <sys/cdefs.h>
-__RCSID("$NetBSD: tls.c,v 1.9 2012/02/13 07:40:24 spz Exp $");
+__RCSID("$NetBSD: tls.c,v 1.8.2.1 2012/04/17 00:09:53 yamt Exp $");
 
 #ifndef DISABLE_TLS
 #include "syslogd.h"

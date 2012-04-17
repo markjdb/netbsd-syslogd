@@ -1,4 +1,4 @@
-/*	$NetBSD: sign.c,v 1.4 2012/02/13 07:40:24 spz Exp $	*/
+/*	$NetBSD: sign.c,v 1.3.8.1 2012/04/17 00:09:53 yamt Exp $	*/
 
 /*-
  * Copyright (c) 2008 The NetBSD Foundation, Inc.
@@ -66,7 +66,7 @@
  */
 
 #include <sys/cdefs.h>
-__RCSID("$NetBSD: sign.c,v 1.4 2012/02/13 07:40:24 spz Exp $");
+__RCSID("$NetBSD: sign.c,v 1.3.8.1 2012/04/17 00:09:53 yamt Exp $");
 
 #ifndef DISABLE_SIGN
 #include "syslogd.h"
